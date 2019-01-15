@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\последняя\Task2_Envelops\IntermediateLvl\bin\Debug\IntermediateLvl.dll
+C:\Users\User\Desktop\последняя\Task2_Envelops\IntermediateLvl\bin\Debug\IntermediateLvl.pdb
+C:\Users\User\Desktop\последняя\Task2_Envelops\IntermediateLvl\obj\Debug\IntermediateLvl.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\последняя\Task2_Envelops\IntermediateLvl\obj\Debug\IntermediateLvl.dll
+C:\Users\User\Desktop\последняя\Task2_Envelops\IntermediateLvl\obj\Debug\IntermediateLvl.pdb
+C:\Users\User\Desktop\Task2_Envelops\IntermediateLvl\bin\Debug\IntermediateLvl.dll
+C:\Users\User\Desktop\Task2_Envelops\IntermediateLvl\bin\Debug\IntermediateLvl.pdb
+C:\Users\User\Desktop\Task2_Envelops\IntermediateLvl\obj\Debug\IntermediateLvl.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Task2_Envelops\IntermediateLvl\obj\Debug\IntermediateLvl.dll
+C:\Users\User\Desktop\Task2_Envelops\IntermediateLvl\obj\Debug\IntermediateLvl.pdb
